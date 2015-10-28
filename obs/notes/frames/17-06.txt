@@ -1,0 +1,26 @@
+===== David Wanted to Build a Temple [17-06] =====
+
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-06.jpg?nolink}}
+
+**David** wanted to **build a temple** where all the **Israelites** could **worship God** and offer him **sacrifices**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **Tent of Meeting** that **Moses** had built.
+===== Important Terms: =====
+
+
+  * **[[:ar:obe:other:david]]**
+  * **[[:ar:obe:kt:temple]]**
+  * **[[:ar:obe:other:israel]]**
+  * **[[:ar:obe:kt:worship]]**
+  * **[[:ar:obe:kt:god]]**
+  * **[[:ar:obe:other:sacrifice]]**
+  * **[[:ar:obe:other:tentofmeeting]]**
+  * **[[:ar:obe:other:moses]]**
+
+
+==== Translation Notes: ====
+
+
+  * **build a temple** - David wanted to construct a permanent building for worshiping God that would replace the portable Tent of Meeting.
+
+
+**[[:ar:obs:notes:frames:17-05|<<]] | [[:ar:obs:notes:17|Up]] | [[:ar:obs:notes:frames:17-07|>>]]**

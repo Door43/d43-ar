@@ -1,0 +1,39 @@
+====== Leviticus 06:19-20 ======
+
+===== TFT: =====
+
+<usfm> \v 19 Yahweh also said to Moses\f + \ft Or: me \f*, \v 20 "Tell Aaron and his sons that this is the offering that they must bring to Yahweh on the day that any of them is ordained\f + \ft Or: becomes a priest \f*: That person must bring two quarts, Or: liters of fine flour as an offering made from grain. He must bring half of it in the morning and half of it in the evening. </usfm>
+
+===== UDB: =====
+
+<usfm> \v 19 Yahweh also said to Moses, \v 20 "Tell Aaron and his sons that this is the offering that they must bring to me on the day that any of them is ordained: That person must bring two liters of fine flour as an offering made from grain flour. He must bring half of it in the morning and half of it in the evening. </usfm>
+
+===== ULB: =====
+
+<usfm> \p \v 19 So Yahweh spoke to Moses again saying, \v 20 "This is the offering of Aaron and of his sons, which they will offer to Yahweh on the day when each son is anointed: a tenth part of an ephah of fine flour as a regular grain offering, half of it in the morning and half of it in the evening. </usfm>
+
+===== Important Terms: =====
+
+  * Yahweh
+  * Moses
+  * offering
+  * Aaron
+  * son
+  * [[:ar:obe:kt:anoint|anoint, anointed]]
+  * [[:ar:obe:other:tenth|tenth, tithe]]
+  * grain offering
+
+===== Translation Notes: =====
+
+  * **each son is anointed**  - "the priests pour oil upon each son's head"  (See: Active - Passive)
+  * **a tenth**  - "ten percent of the entire amount" (See: Biblical Numbers)
+  * **of an ephah**  - "two liters" or "about two quarts" (See: B[[:ar:obe:other:biblicalweight|iblical Weight]])
+  * **half of it ............... half of it **- "fifty percent of the grain offering" (See: Biblical Numbers)
+===== Links: =====
+
+  * **[[:ar:bible:questions:comprehension:lev:06|Leviticus Chapter 06 Comprehension Questions]]**
+**[[:ar:bible:notes:lev:06:16|<<]] | [[:ar:bible:notes:lev:06:21|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~
