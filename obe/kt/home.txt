@@ -1,4 +1,4 @@
 ====== List of the Key Terms in the OBE Directory ======
 Link to [[:ar:obe:other:home]] \\ 
 Link to [[:ar:obe:home]]
-nspages ar:obe:kt -title -textPages=""-exclude:home>>
+<nspages ar:obe:kt -r -title -textPages="" -exclude:home>
