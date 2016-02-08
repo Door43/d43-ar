@@ -4,9 +4,9 @@
 أهلاً بك في باب 34! رجاء أن تشعر بحريتك في [[http://:ar:home&do=edit|تعديل ]]هذه الصفحة إلى لغتك الخاصة.
 
 ===== موارد =====
+These are the resources currently available for translation and use:
 
- 
-  * **A visual mini-Bible in any language, in text, audio, and video format - [:ar:obs|قصص الكتاب المفتوح (عر)]]**
+  * **[[:ar:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
   * [[:ar:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
   * [[:ar:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
   * [[:ar:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
