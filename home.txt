@@ -5,5 +5,25 @@
 
 ===== موارد =====
 
+ 
+  * **A visual mini-Bible in any language, in text, audio, and video format - [:ar:obs|قصص الكتاب المفتوح (عر)]]**
+  * [[:ar:obs:notes|translationNotes]] – Translation and exegetical notes for Open Bible Stories.
+  * [[:ar:lexicon|Open Bible Lexicon]] – A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+  * [[:ar:library|Open Christian Library]] – A growing catalog of open-licensed Biblical resources.
+  * [[:ar:ta|translationAcademy]] – A modular, media-based, self-paced training course for translators and translation facilitators. 
 
-    * **[[:ar:obs|قصص الكتاب المفتوح (عر)]]**
+==== About Door43 ====
+
+  * **[[:ar:get-started|How to Get Started]]** – Get started translating!
+  * **[[:ar:ta:vol1:intro:statement_of_faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
+  * **[[:ar:ta:vol1:intro:translation_guidelines|Translation Guidelines]]** – The principles and procedures that all contributors must follow.
+  * **[[:ar:ta:vol1:intro:open_license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/4.0/|Creative Commons Attribution-ShareAlike 4.0 International License]].
+  * **[[:ar:technical|Technical Details]]** – The technology behind Door43.
+
+==== Extending Door43 ====
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+
+----
+
+//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //
