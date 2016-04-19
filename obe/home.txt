@@ -1,10 +1,11 @@
-====== Complete List of Important Terms - Arabic======
+ ====== Complete List of translationWords - Arabic ======
 
-==== Key Terms and Other Terms in the OBE Directory ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:ar:obe:kt:home]]
-  * [[:ar:obe:other:home]]
+  * [[:ar:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:ar:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-====All Important Terms ====
 
-<nspages ar:obe -r -title -textPages="" -exclude:home>
+==== All Terms in the OBE: ====
+
+<nspages ar:obe -r -title -exclude:home -textPages="">
